@@ -20,4 +20,3 @@ commit
 
 git push - para atualizar no github
 
-git merge - faz a mesclagem das branches 
